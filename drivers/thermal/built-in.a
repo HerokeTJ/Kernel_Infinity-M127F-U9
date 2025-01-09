@@ -1,0 +1,25 @@
+!<thin>
+//                                              198       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+thermal_hwmon.o/
+of-thermal.o/
+step_wise.o/
+cpu_cooling.o/
+devfreq_cooling.o/
+samsung/exynos_tmu_v2.o/
+samsung/exynos_acpm_tmu.o/
+gpu_cooling.o/
+
+/0              0           0     0     644     537800    `
+/16            /0           0     0     644     124392    `
+/33             0           0     0     644     91920     `
+/52            /0           0     0     644     62576     `
+/69             0           0     0     644     302976    `
+/83             0           0     0     644     83288     `
+/96             0           0     0     644     215112    `
+/111            0           0     0     644     118544    `
+/130           /0           0     0     644     361824    `
+/155            0           0     0     644     135256    `
+/182            0           0     0     644     212784    `

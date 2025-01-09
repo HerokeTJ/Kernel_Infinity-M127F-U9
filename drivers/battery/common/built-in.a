@@ -1,0 +1,26 @@
+!<thin>
+//                                              206       `
+sec_battery.o/
+sec_battery_vote.o/
+sec_battery_thermal.o/
+sec_battery_dt.o/
+sec_battery_ttf.o/
+sec_core_sysfs.o/
+sec_battery_sysfs.o/
+sec_device_sysfs.o/
+sec_event_sysfs.o/
+sec_adc.o/
+sec_cisd.o/
+sec_pd.o/
+/0              0           0     0     644     675408    `
+/15             0           0     0     644     128176    `
+/35             0           0     0     644     222440    `
+/58             0           0     0     644     362152    `
+/76             0           0     0     644     208880    `
+/95             0           0     0     644     79864     `
+/113            0           0     0     644     258080    `
+/134            0           0     0     644     312184    `
+/154            0           0     0     644     194152    `
+/173            0           0     0     644     202040    `
+/184            0           0     0     644     346328    `
+/196            0           0     0     644     42920     `

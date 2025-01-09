@@ -1,0 +1,30 @@
+!<thin>
+//                                              220       `
+five_lv.o/
+five_cert.o/
+five_keyring.o/
+five_init.o/
+five_cert_builtin.o/
+five_cache.o/
+five_dmverity.o/
+five_crypto.o/
+five_audit.o/
+five_hooks.o/
+task_integrity.o/
+five_state.o/
+s_os/five_main.o/
+s_os/five_appraise.o/
+/0              0           0     0     644     5712      `
+/11             0           0     0     644     16880     `
+/24             0           0     0     644     123800    `
+/40             0           0     0     644     3624      `
+/53             0           0     0     644     2008      `
+/74             0           0     0     644     109272    `
+/88            /0           0     0     644     194456    `
+/105            0           0     0     644     160112    `
+/120            0           0     0     644     132424    `
+/134            0           0     0     644     126512    `
+/148            0           0     0     644     107384    `
+/166            0           0     0     644     122800    `
+/180            0           0     0     644     269088    `
+/198           /0           0     0     644     145984    `
